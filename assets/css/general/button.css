@@ -5,13 +5,13 @@
     padding: 0 15px;
     height: 36px;
     outline: none;
-    border: 1px solid var(--light-gray-color);
-    color: var(--brand-color);
+    border: 0px solid var(--light-gray-color);
+    color: var(--light-gray-color);
     font-size: 11px;
     font-weight: 800;
-    letter-spacing: 0.5px;
+    letter-spacing: .5px;
     text-transform: uppercase;
-    background-color: var(--white-color);
+    background-color: var(--darker-gray-color);
     border-radius: 3px;
     cursor: pointer;
 }
@@ -35,6 +35,8 @@
 
 .button-secondary {
     color: var(--darker-gray-color);
+    background: white;
+    border: 1px solid var(--light-gray-color);
 }
 
 .button-icon {
