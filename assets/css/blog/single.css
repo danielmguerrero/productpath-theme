@@ -41,7 +41,7 @@
 .single-cta {
     margin-top: 4rem !important;
     padding: 3rem;
-    border-top: 5px solid var(--brand-color);
+    border-top: 5px solid var(--darker-gray-color);
     border-bottom: 1px solid var(--light-gray-color);
     text-align: center;
 }

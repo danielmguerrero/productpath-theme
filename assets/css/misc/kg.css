@@ -127,6 +127,7 @@
 
 .kg-canvas {
     display: grid;
+    text-align: left;
     grid-template-columns:
         [full-start]
         minmax(4vw, auto)
