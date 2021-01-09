@@ -31,7 +31,7 @@
 .single-excerpt {
     margin-top: 2rem;
     font-size: 1.8rem;
-    font-style: italic;
+    
 }
 
 .single-media {
@@ -103,7 +103,7 @@
     }
 
     .single-title {
-        font-size: 2.6rem;
+        font-size: 3.3rem;
     }
 
     .single-excerpt {
