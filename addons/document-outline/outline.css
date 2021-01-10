@@ -1,7 +1,7 @@
 :root{
     --outline-text-color: white;
     --outline-text-color-light: lightgrey;
-    --outline-primary-color: rgb(0, 140, 255);
+    --outline-primary-color: white;
     --outline-bg-color: rgb(37, 37, 37);
 }
 
