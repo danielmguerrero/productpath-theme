@@ -147,7 +147,7 @@ body{
 }
 
 .outline-nav li.list-head div{
-    border-bottom: 1px solid;
+    border-bottom: 2px solid;
     border-bottom-color: var(--outline-primary-color);
     border-bottom-style: groove;
 }
