@@ -146,6 +146,10 @@ let DocumentOutline;
             this._menuMobile = document.createElement('div');
             this._menuMobile.classList.add('outline-mobile-menu-icon-container');
 
+            this._textMenu = document.createElement('div');
+            this._textMenu.classList = 'outline-menu-text';
+            this._textMenu.innerHTML = 'Table of contents';
+
             // serachbar
             this._searchbar = document.createElement('input');
             this._searchbar.classList = 'outline-search';  
