@@ -144,9 +144,9 @@ let DocumentOutline;
             this._menuIcon = document.createElement('div');
             this._menuIcon.classList = 'outline-menu-icon-container';
 
-            this._menuIcon = document.createElement('p');
-            this._menuIcon.classList = 'outline-menu-text';
-            this._menuIcon.innerHTML = 'No results found.';
+            this._menuText = document.createElement('p');
+            this._menuText.classList = 'outline-menu-text';
+            this._menuText.innerHTML = 'No results found.';
 
             this._menuMobile = document.createElement('div');
             this._menuMobile.classList.add('outline-mobile-menu-icon-container');
